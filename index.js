@@ -1,0 +1,1 @@
+let topQualityVariable = 47;
