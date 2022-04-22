@@ -3,6 +3,8 @@
 const login = () => {
   try {
     let steve = "gary";
+    steve = "Steve";
+    steve = "SteveGary";
   } catch (error) {
     console.log(error);
   }
